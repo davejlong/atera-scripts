@@ -1,6 +1,5 @@
 ###
-# Copyright 2018 Cage Data, Inc.
-# Author: Dave Long (dlong@cagedata.com)
+# Author: Dave Long <dlong@cagedata.com>
 #
 # Sets up HP printers on systems using the PCL 6 Universal driver. Also sets the default
 # printer for all users.
