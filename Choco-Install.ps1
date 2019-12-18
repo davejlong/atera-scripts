@@ -1,3 +1,9 @@
+###
+# Author: Dave Long <dlong@cagedata.com>
+#
+# Installs a chocolatey package. Installed Chocolatey itself before hand if needed.
+###
+
 $cinst = Join-Path -Path $env:ProgramData -ChildPath "chocolatey\bin\cinst.exe"
 
 if (!(Test-Path $cinst)) {
